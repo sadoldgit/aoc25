@@ -31,7 +31,7 @@ def part2(banks):
 
 
 # ...relax time: https://www.youtube.com/shorts/Gp3sFLRcIY0
-           
+
 def main():
     banks = []
     for bank in open('input.txt').readlines():
